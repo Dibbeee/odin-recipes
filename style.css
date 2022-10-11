@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+div{
+    width: 650px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid;
+}
+
+.header1{
+    background-color: darkgreen;
+    color: lightgreen;
+}
+
+.header2{
+    background-color: red;
+    color: yellow;
+}
+
+.header3{
+    background-color: blue;
+    color: skyblue;
+}
+
+.btn{
+    padding: 10px;
+    margin: 5px;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    background-color: beige;
+}
