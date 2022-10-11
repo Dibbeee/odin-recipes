@@ -3,7 +3,7 @@
     margin: 0px;
 }
 
-div{
+.childDiv{
     width: 650px;
     height: 100%;
     margin-left: auto;
@@ -29,10 +29,21 @@ div{
 .btn{
     padding: 10px;
     margin: 5px;
+    background-color: black;
 }
-a:link{
-    text-decoration: none;
+
+a{
+    color: white;
 }
-a:hover{
-    background-color: beige;
+
+h1{
+    background-color: blue;
+    font-family: verdana;
+    font-size: 20px;
 }
+
+#endNote{
+    font-family: arial;
+    font-size: 50px;
+}
+
